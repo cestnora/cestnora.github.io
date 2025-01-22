@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
 title: Nora Yirong LI
 description: BEng Computer Engineering at The Chinese University of Hong Kong
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
